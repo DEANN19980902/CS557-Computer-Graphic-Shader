@@ -1,0 +1,95 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.d
+*.pdb
+*.vcd
+*.exe.dSYM/
+*.suo
+*.idb
+*.pdb
+
+# IDE and project files
+.project
+.classpath
+.cproject
+.buildpath
+*.launch
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build system files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+*.cmake
+compile_commands.json
+
+# Archive and compressed files
+*.7z
+*.rar
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.sdf
+*.ncb
+
+# Temporary files
+*~
+#*#
+.#*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
