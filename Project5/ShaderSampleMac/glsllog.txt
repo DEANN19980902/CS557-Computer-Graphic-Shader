@@ -1,0 +1,3 @@
+
+ERROR: 0:46: '+' does not operate on 'vec2' and 'int'
+

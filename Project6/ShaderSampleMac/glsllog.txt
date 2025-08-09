@@ -1,0 +1,6 @@
+
+ERROR: 0:23: Use of undeclared identifier 'vertex0'
+ERROR: 0:27: Use of undeclared identifier 'theVertex'
+ERROR: 0:27: Use of undeclared identifier 'ECposition'
+ERROR: 0:29: Use of undeclared identifier 'theVertex'
+

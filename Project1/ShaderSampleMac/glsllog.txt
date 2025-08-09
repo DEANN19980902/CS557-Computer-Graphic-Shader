@@ -1,0 +1,8 @@
+
+ERROR: 0:30: Use of undeclared identifier 'orangeColor'
+ERROR: 0:31: Use of undeclared identifier 'whiteColor'
+ERROR: 0:33: Use of undeclared identifier 'myColor'
+ERROR: 0:36: Use of undeclared identifier 'myColor'
+ERROR: 0:45: Use of undeclared identifier 'ambient'
+ERROR: 0:45: Use of undeclared identifier 'diffuse'
+
